@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         initData();
         
     }
-
+int x=9;
     private void initData() {
 
     }
